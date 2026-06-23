@@ -1,0 +1,10 @@
+# 图谱视图布局，每次拖拽都会更新
+.obsidian/graph.json
+# 工作区窗口、标签、分栏布局，切换文件就改动
+.obsidian/workspace.json
+# 系统生成缓存文件
+.DS_Store
+Thumbs.db
+数据库.base
+**/未命名.*
+lk.md
