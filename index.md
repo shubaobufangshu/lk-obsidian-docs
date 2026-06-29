@@ -30,3 +30,7 @@ banner: "[[lingkong.png]]"
 >> - [设备lingkong](lingkong/设备lingkong使用教程)
 >> - [Github-Chinese-Top](lingkong/Github-Chinese-Top/README)
 >> - [windows使用](lingkong/windows使用)
+
+安卓sdk
+阿里云：https://dl.aliyuncs.com/android/android
+中科大：https://mirrors.ustc.edu.cn/android/android
